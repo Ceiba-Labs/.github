@@ -7,7 +7,74 @@
 <p align="center">
   <strong>We build technology that helps people grow.</strong>
 </p>
+<p align="center">
+  <img src="../assets/banner.png" alt="Ceiba Labs Banner" width="100%">
+</p>
 
+<h1 align="center">Ceiba Labs</h1>
+
+<p align="center">
+<strong>We build technology that helps people grow.</strong>
+</p>
+
+<p align="center">
+Thoughtfully crafted software and digital products for people, families, and creators.
+</p>
+
+---
+
+## About
+
+Ceiba Labs is a software studio building thoughtful technology that makes everyday life better.
+
+We believe great software is simple, reliable, and built with care. Every product starts with a real problem and is designed to serve people for the long term.
+
+---
+
+## Products
+
+### 🌐 Lentri.nl
+
+Thoughtful technology for everyday life.
+
+### 🌳 Family Compass
+
+Helping families stay connected.
+
+### 📚 Open Source
+
+Developer tools, libraries, and reusable components.
+
+---
+
+## Our Principles
+
+- 🌱 Human-first
+- ⚡ Simple by design
+- 🔒 Privacy-conscious
+- 🛠️ Built to last
+- ❤️ Crafted with care
+- 🌍 Think long-term
+
+---
+
+## Our Mission
+
+> We build technology that helps people grow.
+
+Technology should support people—not distract them.
+
+Every product we create is built to make life a little simpler, calmer, and more meaningful.
+
+---
+
+<p align="center">
+
+**Technology • People • Growth**
+
+Made with ❤️ by **Ceiba Labs**
+
+</p>
 <p align="center">
   Thoughtfully crafted software and digital products for people, families, and creators.
 </p>
