@@ -1,5 +1,7 @@
 <h1 align="center">🌳 Ceiba Labs</h1>
-
+<p align="center">
+  <img src="../assets/banner.png" alt="Ceiba Labs Banner" width="100%">
+</p>
 <p align="center">
 We build technology that helps people grow.
 </p>
